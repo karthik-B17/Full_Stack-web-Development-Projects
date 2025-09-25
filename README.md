@@ -10,6 +10,9 @@ CSS Projects
 3. Landing Page- This Project is based on making a landing page for Nextech Solutions and this is a mini project from css  
    You can access the project through the below link
    [click here](https://landingpagekarthik.netlify.app/)
+4. StartUp Application - Created a frontend application using interactive Bootstrap operations and made the webpage where it can be accessed in Mobile devices too
+   [click here](https://landing-page-karthikbs.netlify.app/)
+   
 
 
    
